@@ -28,7 +28,7 @@ class SayedMahabubYounis:
         self.name         = "Sayed Mahabub Younis"
         self.college      = "Pragati Engineering College, Andhra Pradesh"
         self.degree       = "B.Tech — Computer Science & IT"
-        self.role         = "Aspiring Data Scientist & ML Engineer"
+        self.role         = "Aspiring  ML Engineer"
         self.certs        = [
             "Google Associate Cloud Engineer ☁️",
             "Salesforce AI Associate 🤖"
